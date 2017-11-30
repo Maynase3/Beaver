@@ -6,7 +6,7 @@
     
     /* Add a gray background color and some padding to the footer */
     footer {
-      background-color: #555;
+      background-color: #ddcbe5;
       padding: 25px;
 	  color: white;
     }
@@ -17,7 +17,7 @@
     /* Set gray background color and 100% height */
     .sidenav {
       padding-top: 20px;
-      background-color: #f1f1f1;
+      background-color: #8b83e5;
       height: 100%;
     }
      
